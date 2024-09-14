@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06372762-5856-407b-bd16-2d17dd06aa2c" name="Changes" comment="module_2" />
+    <list default="true" id="06372762-5856-407b-bd16-2d17dd06aa2c" name="Changes" comment="module_2_5">
+      <change afterPath="$PROJECT_DIR$/module_2_hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +35,9 @@
     &quot;accountId&quot;: &quot;85d49ad7-3cbc-4c79-9bdf-9f12d62ee00a&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/module_2_hard.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -41,18 +47,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Debug",
-    "Python.module_2_2.executor": "Run",
-    "Python.module_2_3.executor": "Run",
-    "Python.module_2_4.executor": "Run",
-    "Python.module_2_5.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Сюткины/PycharmProjects/Module_2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_hard.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Сюткины/PycharmProjects/Module_2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Module_2" />
@@ -109,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726213779417</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="module_2_5">
+      <option name="closed" value="true" />
+      <created>1726214320697</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726214320697</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,7 +142,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="module_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="module_2" />
+    <MESSAGE value="module_2_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="module_2_5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
