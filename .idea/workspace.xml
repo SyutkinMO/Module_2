@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06372762-5856-407b-bd16-2d17dd06aa2c" name="Changes" comment="module_2_5">
-      <change afterPath="$PROJECT_DIR$/module_2_hard.py" afterDir="false" />
+    <list default="true" id="06372762-5856-407b-bd16-2d17dd06aa2c" name="Changes" comment="module_2_hard">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2_hard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726214320697</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="module_2_hard">
+      <option name="closed" value="true" />
+      <created>1726291774381</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726291774381</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,7 +151,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="module_2" />
     <MESSAGE value="module_2_5" />
-    <option name="LAST_COMMIT_MESSAGE" value="module_2_5" />
+    <MESSAGE value="module_2_hard" />
+    <option name="LAST_COMMIT_MESSAGE" value="module_2_hard" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
